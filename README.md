@@ -51,7 +51,7 @@ MCPClient
 
 
 Project Structure
-
+```
 mcp-demo/
 │
 ├── browser_mcp.json          # MCP server configuration
@@ -59,7 +59,7 @@ mcp-demo/
 ├── .env                      # Environment variables
 ├── requirements.txt
 └── README.md
-
+```
  Future Enhancements
 
  Shopping & price-comparison MCP servers
@@ -67,3 +67,4 @@ mcp-demo/
  Vector database MCP for long-term memory
  Multi-agent coordination
  Monitoring & observability
+
